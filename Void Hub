@@ -1,1 +1,3 @@
-game.Players.LocalPlayer:Kick("Get New Script From Discord https://discord.gg/xAByJNVCwn")
+return {
+"5ED2248ED1D692BBB7DB50CBE21F12F6A3F328AA2156FD786A16A9D5B7F651BF"
+}
